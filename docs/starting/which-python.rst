@@ -45,11 +45,11 @@ Python的现状（2 vs 3）
 
 鉴于这样，如果你有一个强有力的理由只用Python 2，比如Python 3 无法足够替代的Python 2特有库，或者你（像我）非常喜欢，受Python 2启发。
 
-查看`Can I Use Python 3? <https://caniusepython3.com/>`_ 来看看是否有你依赖的软件阻止你用Python 3。
+查看 `Can I Use Python 3? <https://caniusepython3.com/>`_ 来看看是否有你依赖的软件阻止你用Python 3。
 
 `延伸阅读 <http://wiki.python.org/moin/Python2orPython3>`_
 
-写`同时能够兼容Python 2.6，2.7，和3.3上工作的代码<http://lucumr.pocoo.org/2013/5/21/porting-to-python-3-redux/>`_ 是可能的
+写 `同时能够兼容Python 2.6，2.7，和3.3上工作的代码 <http://lucumr.pocoo.org/2013/5/21/porting-to-python-3-redux/>`_ 是可能的
 。这包括从简单到困难的各种难度，这取决于你写的软件的类型；如果你是初学者，其实有更重要的东西要操心。
 
 实现方式
@@ -73,7 +73,7 @@ PyPy
 
 PyPy旨在最大兼容性（参考CPython的实现），同时提高性能。
 
-如果你正在寻找提高你的Python代码的性能方法，值得试一试PyPy。在一套的基准测试下，它`比CPython的速度目前超过5倍 <http://speed.pypy.org/>`_ 。
+如果你正在寻找提高你的Python代码的性能方法，值得试一试PyPy。在一套的基准测试下，它 `比CPython的速度目前超过5倍 <http://speed.pypy.org/>`_ 。
 
 PyPy支持Python 2.7。PyPy3 [#pypy_ver]_，发布的测试版，支持Python 3。
 
@@ -102,7 +102,7 @@ PythonNet
 
 与Mono相结合，PythonNet能使非windows操作系统的原生的Python在.NET框架中操作，比如OS X和Linux。它可以在除外IronPython的环境中无冲突运行。
 
-PythonNet支持Python 2.3到2.7。[[#pythonnet_ver]_
+PythonNet支持Python 2.3到2.7。[#pythonnet_ver]_
 
 .. [#pypy_ver] http://pypy.org/compat.html
 
