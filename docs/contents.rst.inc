@@ -1,7 +1,7 @@
-Getting Started
+入门
 ---------------
 
-This part of the guide focuses on setting up your Python environment.
+这部分主要包括如何建立你自己的Python环境。
 
 .. toctree::
    :maxdepth: 2
@@ -19,10 +19,10 @@ This part of the guide focuses on setting up your Python environment.
 
 
 
-Writing Great Code
+写优雅的代码
 ------------------
 
-This part of the guide focuses on best practices for writing Python code.
+这部分主要包括写Python代码的最佳实践。
 
 .. toctree::
    :maxdepth: 2
@@ -38,7 +38,7 @@ This part of the guide focuses on best practices for writing Python code.
 
 
 
-Scenario Guide
+场景指南
 --------------
 
 This part of the guide focuses on tool and module advice based on
