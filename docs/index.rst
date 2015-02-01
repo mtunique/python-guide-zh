@@ -8,6 +8,6 @@ The Hitchhiker's Guide to Python!
 
 Welcome to The Hitchhiker's Guide to Python.
 
-**正在翻译中**  我们来一起翻译吧，`fork fork fork...... <https://github.com/kennethreitz/python-guide>`_!
+**正在翻译中**  我们来一起翻译吧，`fork fork fork...... <https://github.com/mtunique/python-guide>`_!
 
 .. include:: contents.rst.inc
