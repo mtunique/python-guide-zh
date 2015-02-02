@@ -46,7 +46,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'pythonguide'
-copyright = u'2014. A <a href="http://kennethreitz.com/pages/open-projects.html">Kenneth Reitz</a> Project. <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"> Creative Commons Share-Alike 3.0</a>'
+copyright = u'2014. A <a href="https://github.com/mtunique/python-guide">mtunique</a> Project. <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"> Creative Commons Share-Alike 3.0</a>'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -188,7 +188,7 @@ htmlhelp_basename = 'pythonguidedoc'
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
   ('index', 'pythonguide.tex', u'Python Guide Documentation',
-   u'Kenneth Reitz', 'manual'),
+   u'mtunique', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -206,7 +206,7 @@ latex_documents = [
 #latex_show_urls = False
 
 # Additional stuff for the LaTeX preamble.
-#latex_preamble = ''
+#latex_preamble = '\DeclareUnicodeCharacter{blah}{blah}'
 
 # Documents to append as an appendix to all manuals.
 #latex_appendices = []
@@ -221,7 +221,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'pythonguide', u'Python Guide Documentation',
-     [u'Kenneth Reitz'], 1)
+     [u'mtunique'], 1)
 ]
 
 
@@ -229,9 +229,9 @@ man_pages = [
 
 # Bibliographic Dublin Core info.
 epub_title = u'pythonguide'
-epub_author = u'Kenneth Reitz'
-epub_publisher = u'Kenneth Reitz'
-epub_copyright = u'2014, Kenneth Reitz'
+epub_author = u'mtunique'
+epub_publisher = u'mtunique'
+epub_copyright = u'2015, mtunique'
 
 # The language of the text. It defaults to the language option
 # or en if the language is not set.
